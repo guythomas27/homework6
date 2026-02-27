@@ -1,7 +1,7 @@
 .portfolioBody
 {
-    padding-top: 110px;   /* NOTE: added for fixed header */
-    padding-bottom: 140px; /* NOTE: added for fixed footer */
+    padding-top: 110px;
+    padding-bottom: 190px;
 }
 
 body.portfolioBody
